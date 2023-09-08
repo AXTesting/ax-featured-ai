@@ -10,6 +10,7 @@ const RawAiUrls: {[index: string]: any} = {
     'content-repurposing-assistant': 'https://youai.ai/ais/content-repurposing-assistant-3b488d38/use',
     'caption-genius': 'https://youai.ai/ais/caption-genius-092975a2/use',
     'stock-image-assistant': 'https://youai.ai/ais/stock-image-assistant-35352b22/use',
+    'social-media': 'https://youai.ai/ais/social-media-post-writer-547206d3/use',
 };
 
 export async function GET(req: NextRequest) {
