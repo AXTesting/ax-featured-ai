@@ -28,34 +28,34 @@ export default function Home() {
           <a href="/use/interview-questions-generator">Interview Questions Generator</a>
         </li>
         <li> 
-          <a href="/use/Brainstorm Content Ideas">brainstorm-content-ideas</a>
+          <a href="/use/brainstorm-content-ideas">Brainstorm Content Ideas</a>
         </li>
         <li> 
-          <a href="/use/Ghostwriter">ghostwriter</a>
+          <a href="/use/ghostwriter">Ghostwriter</a>
         </li>
         <li> 
-          <a href="/use/Engagement Strategies Assistant">engagement-strategies-assistant</a>
+          <a href="/use/engagement-strategies-assistant">Engagement Strategies Assistant</a>
         </li>
         <li> 
-          <a href="/use/Personal Tutor">personal-tutor</a>
+          <a href="/use/personal-tutor">Personal Tutor</a>
         </li>
         <li> 
-          <a href="/use/AI at first sight!">ai-at-first-sight</a>
+          <a href="/use/ai-at-first-sight">AI at first sight!</a>
         </li>
           <li> 
-          <a href="/use/LinkedIn Article Generator">linkedin-article-generator</a>
+          <a href="/use/linkedin-article-generator">LinkedIn Article Generator</a>
         </li>
         <li> 
-          <a href="/use/Meal Planner">meal-planner</a>
+          <a href="/use/meal-planner">Meal Planner</a>
         </li>
         <li> 
-          <a href="/use/Personal Trainer">personal-trainer</a>
+          <a href="/use/personal-trainer">Personal Trainer</a>
         </li>
         <li> 
-          <a href="/use/The Pareto Principle">the-pareto-principle</a>
+          <a href="/use/the-pareto-principle">The Pareto Principle</a>
         </li>
         <li> 
-          <a href="/use/Five Whys Technique">five-whys-technique</a>
+          <a href="/use/five-whys-technique">Five Whys Technique</a>
         </li>
       </ul>
     </main>
