@@ -12,6 +12,9 @@ export default function Home() {
         <li>
           <a href="/use/caption-genius">Caption Genius</a>
         </li>
+        <li> 
+          <a href="/use/stock-image-assistant">Stock Image Assistant</a>
+        </li>
       </ul>
     </main>
   );
