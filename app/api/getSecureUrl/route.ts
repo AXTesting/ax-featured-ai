@@ -9,8 +9,21 @@ const RawAiUrls: {[index: string]: any} = {
     'social-media-creativity-planner': 'https://youai.ai/ais/social-media-creativity-planner-d70e4f19/use',
     'content-repurposing-assistant': 'https://youai.ai/ais/content-repurposing-assistant-3b488d38/use',
     'caption-genius': 'https://youai.ai/ais/caption-genius-092975a2/use',
-    'stock-image-assistant': 'https://youai.ai/ais/stock-image-assistant-35352b22/use',
-    'social-media': 'https://youai.ai/ais/social-media-post-writer-547206d3/use',
+    'the-learning-machine': 'https://youai.ai/ais/the-learning-machine-265d456f/use',
+    'gift-ideas': 'https://youai.ai/ais/gift-ideas-20291023/use',
+    'plumbing-expert': 'https://youai.ai/ais/plumbing-expert-c426edf7/use',
+    'help-me-plan': 'https://youai.ai/ais/help-me-plan-d3103dc5/use',
+    'interview-questions-generator': 'https://youai.ai/ais/interview-questions-generator-8cc05b97/use',
+    'brainstorm-content-ideas': 'https://youai.ai/ais/brainstorm-content-ideas-221f3ece/use',
+    'ghostwriter': 'https://youai.ai/ais/ghostwriter-f60cb848/use',
+    'engagement-strategies-assistant': 'https://youai.ai/ais/engagement-strategies-assistant-370ee7c8/use',
+    'personal-tutor': 'https://youai.ai/ais/personal-tutor-031a80f3/use',
+    'ai-at-first-sight': 'https://youai.ai/ais/ai-at-first-sight-1e2a8797/use',
+    'linkedin-article-generator': 'https://youai.ai/ais/linkedin-article-generator--0d132618/use',
+    'meal-planner': 'https://youai.ai/ais/meal-planner-dba2248b/use',
+    'personal-trainer': 'https://youai.ai/ais/personal-trainer-a2813e3e/use',
+    'the-pareto-principle': 'https://youai.ai/ais/the-pareto-principle-4eaf3065/use',
+    'five-whys-technique': 'https://youai.ai/ais/five-whys-technique-44234b60/use',
 };
 
 export async function GET(req: NextRequest) {
