@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 export const runtime = "edge";
 
-const YouAiOrganizationSecretToken = 'PASTE_SECRET_KEY_HERE';
+const YouAiOrganizationSecretToken = '827efab7-2615-4784-a85b-4e30572009ac:29b7edb82ba5e3413acb4896b0cf7e54';
 
 const YouAiApiUrl = `https://api.youai.ai/v1/organizations/api/auth/get-token`;
 
