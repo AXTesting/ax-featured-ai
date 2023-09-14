@@ -64,7 +64,7 @@ export default function Home() {
           <a href="/use/restaurateur-copilot--ax">Restaurateur Co-Pilot - AX</a>
         </li>
         <li> 
-          <a href="/use/seo-keyword-planner">SEO Keyword Planner</a>
+          <a href="/use/seo-keyword-planner--ax">SEO Keyword Planner - AX</a>
         </li>
       </ul>
     </main>
