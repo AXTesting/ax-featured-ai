@@ -58,7 +58,7 @@ export default function Home() {
           <a href="/use/five-whys-technique">Five Whys Technique</a>
         </li>
         <li> 
-          <a href="/use/create-a-content-calendar-ax">Create a Content Calendar</a>
+          <a href="/use/create-a-content-calendar-ax">Create a Content Calendar - AX</a>
         </li>
         <li> 
           <a href="/use/restaurateur-copilot--ax">Restaurateur Co-Pilot - AX</a>
