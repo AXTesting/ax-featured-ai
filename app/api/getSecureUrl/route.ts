@@ -24,7 +24,7 @@ const RawAiUrls: {[index: string]: any} = {
     'personal-trainer': 'https://youai.ai/ais/personal-trainer-a2813e3e/use',
     'the-pareto-principle': 'https://youai.ai/ais/the-pareto-principle-4eaf3065/use',
     'five-whys-technique': 'https://youai.ai/ais/five-whys-technique-44234b60/use',
-    'create-a-content-calendar-ax': 'https://youai.ai/ais/create-a-content-calendar-ax-6906cc22/use',
+    'create-a-content-calendar-ax': 'https://youai.ai/ais/create-a-content-calendar-ax-6906cc22',
 };
 
 export async function GET(req: NextRequest) {
