@@ -46,7 +46,7 @@ const UseAi = (props: any) => {
         <input
           autoFocus
           type="text"
-          placeholder="Type 'Demo' to proceed"
+          placeholder="Insert your name to proceed"
           value={username}
           onChange={(e) => onSetUsername(e.target.value)}
         />
