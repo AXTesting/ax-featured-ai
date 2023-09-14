@@ -22,8 +22,8 @@ const RawAiUrls: {[index: string]: any} = {
     'linkedin-article-generator': 'https://youai.ai/ais/linkedin-article-generator--0d132618/use',
     'meal-planner': 'https://youai.ai/ais/meal-planner-dba2248b/use',
     'personal-trainer': 'https://youai.ai/ais/personal-trainer-a2813e3e/use',
-    'the-pareto-principle': 'https://youai.ai/ais/the-pareto-principle-4eaf3065/use',
-    'five-whys-technique': 'https://youai.ai/ais/five-whys-technique-44234b60/use',
+    'the-pareto-principle': 'https://youai.ai/ais/the-pareto-principle-4eaf3065',
+    'five-whys-technique': 'https://youai.ai/ais/five-whys-technique-44234b60',
     'create-a-content-calendar-ax': 'https://youai.ai/ais/create-a-content-calendar-ax-6906cc22',
 };
 
