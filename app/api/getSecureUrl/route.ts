@@ -25,6 +25,8 @@ const RawAiUrls: {[index: string]: any} = {
     'the-pareto-principle': 'https://youai.ai/ais/the-pareto-principle-4eaf3065',
     'five-whys-technique': 'https://youai.ai/ais/five-whys-technique-44234b60',
     'create-a-content-calendar-ax': 'https://youai.ai/ais/create-a-content-calendar-ax-6906cc22',
+    'restaurateur-copilot--ax': 'https://youai.ai/ais/restaurateur-copilot--ax-7e8d00fa',
+    'seo-keyword-planner--ax': 'https://youai.ai/ais/seo-keyword-planner--ax-87632b54',
 };
 
 export async function GET(req: NextRequest) {
