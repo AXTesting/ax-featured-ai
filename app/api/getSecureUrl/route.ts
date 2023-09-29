@@ -27,6 +27,7 @@ const RawAiUrls: {[index: string]: any} = {
     'create-a-content-calendar-ax': 'https://youai.ai/ais/create-a-content-calendar-ax-6906cc22',
     'restaurateur-copilot--ax': 'https://youai.ai/ais/restaurateur-copilot--ax-7e8d00fa',
     'seo-keyword-planner--ax': 'https://youai.ai/ais/seo-keyword-planner--ax-87632b54',
+    'ax-hr--ai-assistant-pune-india':'https://youai.ai/ais/ax-hr--ai-assistant-pune-india-b9fe1178'
 };
 
 export async function GET(req: NextRequest) {
