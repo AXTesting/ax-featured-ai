@@ -66,6 +66,9 @@ export default function Home() {
         <li> 
           <a href="/use/seo-keyword-planner--ax">SEO Keyword Planner - AX</a>
         </li>
+        <li> 
+          <a href="/use/ax-hr--ai-assistant-pune-india">AX HR - AI Assistant (Pune, India)</a>
+        </li>
       </ul>
     </main>
   );
