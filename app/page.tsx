@@ -70,7 +70,7 @@ export default function Home() {
           <a href="/use/ax-hr--ai-assistant-pune-india">AX HR - AI Assistant (Pune, India)</a>
         </li>
           <li> 
-          <a href="/use/best-houston-restaurants">Best Houston Restaurant</a>
+          <a href="/use/best-houston-restaurants">Best Houston Restaurants</a>
         </li>
       </ul>
     </main>
